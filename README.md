@@ -16,4 +16,4 @@ Google Play: https://play.google.com/store/apps/details?id=com.javierizquierdove
 ![6](Screenshots/6.png)
 ![7](Screenshots/7.png)
 ![8](Screenshots/8.png)
-![9](Screenshots/9.png)
+![9](Screenshots/9.jpg)
